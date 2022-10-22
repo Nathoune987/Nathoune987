@@ -11,7 +11,7 @@
 <img src="https://i.imgur.com/FN7i65O.png" width="130px">
 <img src="https://i.imgur.com/VJwugWa.png" width="130px">
 </p>
-<p>🦀 Le Rust j'apprends encore !</p>
+<p>🦀 Le Rust et le JS je les apprends encore !</p>
 <h1>📞Me contacter</h1>
 <p>🤖 Vous pouvez me contacter sur Discord : Nathoune#3630.<br>✉️ Ou vous pouvez me conctater via mail avec : nathouneyoutube@hotmail.com.</p>
 
