@@ -13,5 +13,5 @@
 </p>
 <p>🦀 Le Rust et le JS je les apprends encore !</p>
 <h1>📞Me contacter</h1>
-<p>🤖 Vous pouvez me contacter sur Discord : Nathoune#3630.<br>✉️ Ou vous pouvez me conctater via mail avec : nathouneyoutube@hotmail.com.</p>
+<p>🤖 Vous pouvez me contacter sur Discord : Nathoune#3630.<br>✉️ Ou vous pouvez me conctater via mail avec : nathoune987@proton.me.</p>
 
